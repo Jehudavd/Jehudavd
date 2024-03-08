@@ -1,4 +1,4 @@
-## Hi, Im Jehuda👋
+# Hi, Im Jehuda👋
 
 👨‍💻 A friendly Frontend web developer<br/>
 👨‍🎓 Student of Informatics Engineering at [Manado State University](https://unima.ac.id/), Indonesia<br/>
