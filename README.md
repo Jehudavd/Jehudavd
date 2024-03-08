@@ -7,7 +7,7 @@ A friendly Frontend web developer from Indonesia who loves coding, coffee, and c
 🌱 I'm currently learning <b>MERN</b> stack<br/>
 ⚡ Fun fact I like comedy<br/>
 
-![](https://komarev.com/ghpvc/?username=Jehudavd&color=orange)
+![](https://komarev.com/ghpvc/?username=Jehudavd&color=29291f)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Jehudavd&theme=great-gatsby" width="49.6%" />
