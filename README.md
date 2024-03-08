@@ -11,3 +11,4 @@ A friendly Frontend web developer from Indonesia who loves coding, coffee, and c
 
 ![Jehuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jehudavd&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehudavd&layout=compact&theme=great-gatsby)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jehudavd&theme=great-gatsby)](https://git.io/streak-stats)
