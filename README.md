@@ -10,15 +10,8 @@ A friendly Frontend web developer from Indonesia who loves coding, coffee, and c
 ![](https://komarev.com/ghpvc/?username=Jehudavd&color=orange)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jehudavd&theme=great-gatsby" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jehudavd&theme=great-gatsby" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jehudavd&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jehudavd&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
 </a>
