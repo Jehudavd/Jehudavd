@@ -1,4 +1,4 @@
-# Hi, Im Jehuda👋
+# Hi, I'm Jehuda👋
 
 A friendly Frontend web developer from Indonesia who loves coding, coffee, and continuous learning in tech<br/>
 
