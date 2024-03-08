@@ -9,8 +9,8 @@ A friendly Frontend web developer from Indonesia who loves coding, coffee, and c
 
 ![](https://komarev.com/ghpvc/?username=Jehudavd&color=orange)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehudavd&layout=compact&theme=great-gatsby)
-&nbsp; ![Jehuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jehudavd&show_icons=true&theme=great-gatsby)
+![Jehuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jehudavd&show_icons=true&theme=great-gatsby)
+&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehudavd&layout=compact&theme=great-gatsby)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jehudavd&theme=great-gatsby)](https://git.io/streak-stats)
 
