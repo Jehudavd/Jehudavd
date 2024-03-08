@@ -4,7 +4,7 @@ A friendly Frontend web developer from Indonesia who loves coding, coffee, and c
 
 👨‍🎓 Student of Informatics Engineering at [Manado State University](https://unima.ac.id/), Indonesia<br/>
 🔭 I’m currently working on Website Event project<br/>
-🌱 I'm currently learning <b>MERN stack</b><br/>
+🌱 I'm currently learning <b>MERN</b> stack<br/>
 ⚡ Fun fact I like comedy<br/>
 
 ![](https://komarev.com/ghpvc/?username=Jehudavd&color=orange)
