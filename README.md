@@ -15,3 +15,11 @@ A Frontend web developer from Indonesia who loves coding, coffee, and continuous
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jehudavd&layout=compact&langs_count=8&card_width=320&theme=midnight-purple"></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jehudavd&theme=midnight-purple&hide_border=false" width="100%"></td>
+  </tr>
+</table>
+
+![Jehudavd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jehudavd&theme=midnight-purple&hide_border=false)
