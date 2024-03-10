@@ -16,10 +16,3 @@ A Frontend web developer from Indonesia who loves coding, coffee, and continuous
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jehudavd&theme=midnight-purple&hide_border=false" width="100%"></td>
-  </tr>
-</table>
-
-![Jehudavd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jehudavd&theme=midnight-purple&hide_border=false)
