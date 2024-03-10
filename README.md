@@ -11,7 +11,7 @@ A Frontend web developer from Indonesia who loves coding, coffee, and continuous
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Jehudavd&theme=great-gatsby"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jehudavd&layout=compact&langs_count=8&card_width=320&theme=great-gatsby"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Jehudavd&theme=midnight-purple"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jehudavd&layout=compact&langs_count=8&card_width=320&theme=midnight-purple"></td>
   </tr>
 </table>
