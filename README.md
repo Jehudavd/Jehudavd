@@ -16,7 +16,5 @@ A Frontend web developer from Indonesia who loves coding, coffee, and continuous
   </tr>
 </table>
 
-<table>
-<tr></tr>
-</table>
+
 
