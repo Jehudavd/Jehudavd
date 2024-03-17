@@ -5,9 +5,9 @@ A Frontend web developer enthusiast from Indonesia who loves coding, coffee, and
 👨‍🎓 Student of Informatics Engineering at [Manado State University](https://unima.ac.id/), Indonesia<br/>
 🔭 I’m currently working on Website Event project<br/>
 🌱 I'm currently learning <b>MERN</b> stack<br/>
-🌻 My personality [here](https://www.16personalities.com/profiles/6e974bd325992)
+🌻 My personality [here](https://www.16personalities.com/profiles/6e974bd325992)<br/>
 
-<br/>
+![](https://komarev.com/ghpvc/?username=Jehudavd&color=29291f)
 
 <table>
   <tr>
@@ -16,5 +16,5 @@ A Frontend web developer enthusiast from Indonesia who loves coding, coffee, and
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=Jehudavd&color=29291f)
+
 
