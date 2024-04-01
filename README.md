@@ -13,9 +13,6 @@ About me<br/>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Jehudavd&theme=midnight-purple"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jehudavd&layout=compact&langs_count=8&card_width=320&theme=midnight-purple"></td>
   </tr>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jehudavd&theme=midnight-purple&hide_border=false"></td>
-  </tr>
 </table>
 
 
