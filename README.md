@@ -3,7 +3,7 @@
 About me<br/>
 
 👨‍🎓 Student of Informatics Engineering at [Manado State University](https://unima.ac.id/), Indonesia<br/>
-🌱 I'm currently learning <b>MERN</b> stack<br/>
+🌱 I'm currently learning <b>PERN</b> stack<br/>
 
 ![](https://komarev.com/ghpvc/?username=Jehudavd&color=29291f)
 
